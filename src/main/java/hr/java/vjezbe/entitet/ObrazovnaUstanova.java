@@ -15,6 +15,8 @@ public abstract class ObrazovnaUstanova {
 
     public abstract Student odrediNajuspjesnijegStudentaNaGodini(Integer godina);
 
+    public ObrazovnaUstanova(){}
+
     public ObrazovnaUstanova(String naziv, List<Predmet> predmeti, List<Profesor> profesori, List<Student> studenti, List<Ispit> ispiti) {
         this.naziv = naziv;
         this.predmeti = predmeti;

@@ -5,6 +5,7 @@ import hr.java.vjezbe.iznimke.NemoguceOdreditiProsjekStudentaException;
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.stream.Collectors;
 
 /**
  * Sučelje s metodama koje se implementiraju u klasama FakultetRacunarstva i VeleucilisteJave.
@@ -64,16 +65,9 @@ public interface Visokoskolska {
      */
     default  List<Ispit> filtrirajIspitePoStudentu(List<Ispit> ispiti, Student student) {
 
-        int brojIspita = 0;
+        List<Ispit> tempIspiti;
 
-        List<Ispit> tempIspiti = new ArrayList<>();
-
-        for(int i = 0;i<ispiti.size();i++){
-            if(ispiti.get(i).getStudent() == student){
-                brojIspita++;
-                tempIspiti.add(brojIspita - 1, ispiti.get(i));
-            }
-        }
+        tempIspiti = ispiti.stream().filter(ispit -> ispit.getStudent() == student).collect(Collectors.toList());
         return tempIspiti;
     }
 

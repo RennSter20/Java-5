@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Rak-2" />
+        <module name="Rak-5" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Rak-2" target="19" />
+      <module name="Rak-5" target="19" />
     </bytecodeTargetLevel>
   </component>
 </project>

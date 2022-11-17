@@ -5,11 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8b0317b-e151-4878-8f62-0e3b240dce42" name="Changes" comment="Final commit">
+      <change afterPath="$PROJECT_DIR$/Rak-5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hr/java/vjezbe/entitet/Sveuciliste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hr/java/vjezbe/sortiranje/SveucilisteSorter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/pogreske.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/pogreske.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hr/java/vjezbe/entitet/Predmet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/java/vjezbe/entitet/Predmet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hr/java/vjezbe/entitet/ObrazovnaUstanova.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/java/vjezbe/entitet/ObrazovnaUstanova.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hr/java/vjezbe/entitet/Visokoskolska.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/java/vjezbe/entitet/Visokoskolska.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/hr/java/vjezbe/glavna/Glavna.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/java/vjezbe/glavna/Glavna.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hr/java/vjezbe/sortiranje/StudentSorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/java/vjezbe/sortiranje/StudentSorter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/Dvorana.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/Dvorana.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/FakultetRacunarstva.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/FakultetRacunarstva.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/Ispit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/Ispit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/ObrazovnaUstanova.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/ObrazovnaUstanova.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/Osoba.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/Osoba.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/Profesor$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/Profesor$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/Profesor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/Profesor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/VeleucilisteJave.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/VeleucilisteJave.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/Visokoskolska.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/Visokoskolska.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/glavna/Glavna.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/glavna/Glavna.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/iznimke/NemoguceOdreditiProsjekStudentaException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/iznimke/NemoguceOdreditiProsjekStudentaException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/iznimke/PostojiViseNajmadjihStudenataException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/iznimke/PostojiViseNajmadjihStudenataException.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +48,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="2GOreLOiUd5sZL4HJk6E2ao2h5x" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -42,7 +67,8 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/renat/IdeaProjects/Rak-4&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/renat/IdeaProjects/Rak-5&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
   }
 }</component>
@@ -52,9 +78,9 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Glavna" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Glavna" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hr.java.vjezbe.glavna.Glavna" />
-      <module name="Rak-2" />
+      <module name="Rak-5" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="hr.java.vjezbe.glavna.*" />
@@ -65,11 +91,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Glavna" />
-      </list>
-    </recent_temporary>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -117,6 +149,15 @@
     <option name="LAST_COMMIT_MESSAGE" value="Final commit" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hr/java/vjezbe/glavna/Glavna.java</url>
+          <line>575</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <pin-to-top-manager>
       <pinned-members>
         <PinnedItemInfo parentTag="hr.java.vjezbe.entitet.Predmet" memberName="brojEctsBodova" />
