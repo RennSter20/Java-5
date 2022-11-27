@@ -4,30 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8b0317b-e151-4878-8f62-0e3b240dce42" name="Changes" comment="Final commit">
-      <change afterPath="$PROJECT_DIR$/Rak-5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hr/java/vjezbe/entitet/Sveuciliste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hr/java/vjezbe/sortiranje/SveucilisteSorter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="d8b0317b-e151-4878-8f62-0e3b240dce42" name="Changes" comment="Final">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/pogreske.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/pogreske.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hr/java/vjezbe/entitet/ObrazovnaUstanova.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/java/vjezbe/entitet/ObrazovnaUstanova.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/hr/java/vjezbe/entitet/Visokoskolska.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/java/vjezbe/entitet/Visokoskolska.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/hr/java/vjezbe/glavna/Glavna.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/java/vjezbe/glavna/Glavna.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/Dvorana.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/Dvorana.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/FakultetRacunarstva.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/FakultetRacunarstva.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/Ispit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/Ispit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/ObrazovnaUstanova.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/ObrazovnaUstanova.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/Osoba.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/Osoba.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/Profesor$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/Profesor$Builder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/Profesor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/Profesor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/VeleucilisteJave.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/VeleucilisteJave.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/Visokoskolska.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/entitet/Visokoskolska.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/glavna/Glavna.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/glavna/Glavna.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/iznimke/NemoguceOdreditiProsjekStudentaException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/iznimke/NemoguceOdreditiProsjekStudentaException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/iznimke/PostojiViseNajmadjihStudenataException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hr/java/vjezbe/iznimke/PostojiViseNajmadjihStudenataException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hr/java/vjezbe/sortiranje/SveucilisteSorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/java/vjezbe/sortiranje/SveucilisteSorter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +112,13 @@
       <option name="presentableId" value="LOCAL−00003" />
       <updated>1667030429883</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL−00004" summary="Final">
+      <created>1668690671374</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1668690671374</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,18 +134,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Final commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final commit" />
+    <MESSAGE value="Final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/hr/java/vjezbe/glavna/Glavna.java</url>
-          <line>575</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <pin-to-top-manager>
       <pinned-members>
         <PinnedItemInfo parentTag="hr.java.vjezbe.entitet.Predmet" memberName="brojEctsBodova" />

@@ -11,7 +11,7 @@ public class SveucilisteSorter implements Comparator<ObrazovnaUstanova> {
         if(o1.getStudenti().size() < o2.getStudenti().size()){
             return 1;
         }else if(o1.getStudenti().size() == o2.getStudenti().size()){
-            if(o1.getNaziv().compareToIgnoreCase(o2.getNaziv()) > 0){
+            if(o1.getNaziv().compareToIgnoreCase(o2.getNaziv()) < 0){
                 return 1;
             }
         }

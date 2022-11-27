@@ -67,7 +67,7 @@ public interface Visokoskolska {
 
         List<Ispit> tempIspiti;
 
-        tempIspiti = ispiti.stream().filter(ispit -> ispit.getStudent() == student).collect(Collectors.toList());
+        tempIspiti = ispiti.stream().filter(ispit -> ispit.getStudent().equals(student)).collect(Collectors.toList());
         return tempIspiti;
     }
 

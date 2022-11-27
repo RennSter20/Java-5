@@ -77,3 +77,4 @@ java.util.InputMismatchException: null
 	at hr.java.vjezbe.glavna.Glavna.unosUstanove(Glavna.java:383)
 	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:569)
 2022-11-17 14:08:51,517 ERROR [main] h.j.v.g.Glavna [Glavna.java:525] hr.java.vjezbe.iznimke.PostojiViseNajmadjihStudenataException: Pronadeno je vise najmladih studenata s istim datumom rodenja, a to su  i Danka Zupanovic 
+2022-11-27 23:51:49,302 ERROR [main] h.j.v.g.Glavna [Glavna.java:537] hr.java.vjezbe.iznimke.PostojiViseNajmadjihStudenataException: Pronadeno je vise najmladih studenata s istim datumom rodenja, a to su  i danka zupanovic 
